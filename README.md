@@ -1,5 +1,5 @@
-# 📸 AI Camera FOV Simulator
-(AI相机视场角与光学覆盖仿真工具)
+# 📸 AI Camera FOV Simulator v1.0
+(AI相机视场角与光学覆盖仿真工具 v1.0)
 
 ## 📖 项目简介 (Introduction)
 这是一个基于 **Three.js** 开发的纯前端 3D 交互式工具，专为弱电工程、安防监控部署和空间设计打造。
